@@ -1,0 +1,6 @@
+﻿Dependency Inversion Prensibi: Bir sınıfın, metodun ya da özelliğin, onu kullanan diğer sınıflara karşı olan bağımlılığı en aza indirgenmelidir. Bir alt sınıfta yapılan değişiklikler üst sınıfları etkilememelidir.Bunun için üst seviye sınıf ile alt seviye sınıfın arasına köprü vazifesi gören soyutlama katmanı yapabiliriz.
+
+Kötü(Bad) örnekte alt veya üst sınıflar birbirlerine fazlasıyla bağlıdır.Dolayısıyla herhangi bir sınıfta yapılan değişikliğin etkiside büyük olabilir.
+
+İyi(Good) örnekte ise alt sınıf ve üst sınıf arasında Iproduct arayüzü soyut katman olarak kullanılmıştır.Böylelikle bir sınıfta yapılan değişiklik diğer sınıfları etkilemeyecektir ve böylece bağımlılık  minimum miktara indirilmiş olacaktır.
+

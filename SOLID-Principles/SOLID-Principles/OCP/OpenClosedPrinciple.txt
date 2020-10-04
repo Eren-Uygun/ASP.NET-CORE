@@ -1,0 +1,5 @@
+﻿OpenClosed Prensibi bir sınıfın(class) temel özelliklerinin değişmeden esnetilebilmesidir.Yani nesneler genişlemeye açık değişime kapalı olmalıdır.
+
+Goodcoffee sınıfını tüm alt sınıflara miras vererek tüm kahve çeşitlerine fiyat hesaplama özelliği kazandırır.Ve yeni sınıflar eklenerek genişletilebilir ve temel sınıf özelliğini kaybetmemiş olur. Böylece prensip sağlanmış olur.
+
+Badcoffee sınıfında ise yeni eklenecek bir içerikler sebebiyle tüm kodlar değişikliğe uğrayabileceğinden bu özelliğe ters düştüğü görülmektedir.

@@ -1,0 +1,14 @@
+﻿Türeyen sınıf yani alt sınıflar ana(üst) sınıfın tüm özelliklerini ve metotlarını aynı işlevi gösterecek şekilde kullanabilme ve kendine ait yeni özellikler barındırabilmelidir.
+
+****LISKOV SUBSTITUTION PRENSİBİ****
+--Bu prensibi ICollection-List yapıları gibi düşünebiliriz.
+--Alt sınıflarda oluşan nesneler(kalıtım) üst sınıflardan oluşturulan nesnelerle yer değiştirebilir olmalıdır. 
+
+-Örneğin, karenin ve dikdörtgenin alanını hesaplayan basit bir uygulamamız olsun. Bir dikdörtgen sınıf oluşturarak bu sınıfa 2 member veriyoruz. Yüksekllik ve uzunluk, fakat kare geometrik şekili için bu ata sınıf çokta uygun olmamaktadır. Yani dikdörtgen sınıfından kalıtım alan bir kare sınıfından nesne oluşturmaya kalkarsak ata sınıfların mantığından ve amacından şaşmış oluyoruz ve bu prensibe ters düşmüş oluyoruz. Bu hatayı düzeltmek için dörtgen yapısının ortak özelliklerini barındıracak bir sınıf oluşturulmalı ve her bir geometrik şekil için bir sınıf oluşturularak kendi alan hesaplamalarına sahip olduğundan emin olmalıyız.
+
+
+***İyi(good) Kod için***
+
+2.Her şeklin kendi alan hesaplamasına sahip olduğundan emin oluyoruz.
+3.Dörtgen sınıfının base sınıf olmasındansa, shape adında daha genel soyut bir sınıf oluşturuyoruz.
+

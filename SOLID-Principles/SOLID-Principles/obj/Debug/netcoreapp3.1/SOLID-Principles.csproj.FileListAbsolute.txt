@@ -1,0 +1,13 @@
+C:\Users\LornV\Documents\GitHub\ASP.NET-CORE\SOLID-Principles\SOLID-Principles\obj\Debug\netcoreapp3.1\SOLID-Principles.csprojAssemblyReference.cache
+C:\Users\LornV\Documents\GitHub\ASP.NET-CORE\SOLID-Principles\SOLID-Principles\obj\Debug\netcoreapp3.1\SOLID-Principles.AssemblyInfoInputs.cache
+C:\Users\LornV\Documents\GitHub\ASP.NET-CORE\SOLID-Principles\SOLID-Principles\obj\Debug\netcoreapp3.1\SOLID-Principles.AssemblyInfo.cs
+C:\Users\LornV\Documents\GitHub\ASP.NET-CORE\SOLID-Principles\SOLID-Principles\obj\Debug\netcoreapp3.1\SOLID-Principles.csproj.CoreCompileInputs.cache
+C:\Users\LornV\Documents\GitHub\ASP.NET-CORE\SOLID-Principles\SOLID-Principles\bin\Debug\netcoreapp3.1\SOLID-Principles.exe
+C:\Users\LornV\Documents\GitHub\ASP.NET-CORE\SOLID-Principles\SOLID-Principles\bin\Debug\netcoreapp3.1\SOLID-Principles.deps.json
+C:\Users\LornV\Documents\GitHub\ASP.NET-CORE\SOLID-Principles\SOLID-Principles\bin\Debug\netcoreapp3.1\SOLID-Principles.runtimeconfig.json
+C:\Users\LornV\Documents\GitHub\ASP.NET-CORE\SOLID-Principles\SOLID-Principles\bin\Debug\netcoreapp3.1\SOLID-Principles.runtimeconfig.dev.json
+C:\Users\LornV\Documents\GitHub\ASP.NET-CORE\SOLID-Principles\SOLID-Principles\bin\Debug\netcoreapp3.1\SOLID-Principles.dll
+C:\Users\LornV\Documents\GitHub\ASP.NET-CORE\SOLID-Principles\SOLID-Principles\bin\Debug\netcoreapp3.1\SOLID-Principles.pdb
+C:\Users\LornV\Documents\GitHub\ASP.NET-CORE\SOLID-Principles\SOLID-Principles\obj\Debug\netcoreapp3.1\SOLID-Principles.dll
+C:\Users\LornV\Documents\GitHub\ASP.NET-CORE\SOLID-Principles\SOLID-Principles\obj\Debug\netcoreapp3.1\SOLID-Principles.pdb
+C:\Users\LornV\Documents\GitHub\ASP.NET-CORE\SOLID-Principles\SOLID-Principles\obj\Debug\netcoreapp3.1\SOLID-Principles.genruntimeconfig.cache

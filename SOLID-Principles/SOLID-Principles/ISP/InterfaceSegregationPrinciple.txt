@@ -1,0 +1,9 @@
+﻿INTERFACE SEGREGATION PRINCIPLE: Bu prensipde amaç nesnelerin ihtiyaç duymadıkları metotların bulunduğu arayüzlere(interface) bağlı olmaya zorlanmamalıdır.Yani sınıflar ihtiyaçları olmayan özellik ve davranışları içeren interfaceleri almamalıdır.
+
+Bad klasöründe IBird sınıfına bakarsak çok genel olduğunu ve farklı türden kuş ailesinden gelen türlerde problemlere yol açtığını görüyoruz. Tavuk penguen gibi kuş tipleri uçamazlar ve biz kuş interface'i üzerinde tüm kuşların bu yeteneklere sahip olduklarını varsayarak kötü bir tasarım gerçekleştirdik.
+
+Bunu düzeltmek adına kuş arayüzünü(interface)'ini bölümlere ayırmamız gerekiyor.Uçabilen ve uçamayan olarak 2 ayrı arayüz oluşturabilir.Ve arayüzlerin(interface) birden fazla miras verebilmesi özelliğini kullanarak tüm alt classlara ihtiyaçları olan özellikleri verebiliriz.
+
+Kartal(Eagle) sınıfına bakarsak hem uçamayan hem de uçabilen kuşların yeteneklerine sahip olduğunu ancak penguenlerin(penguin) sadece uçamayan kuşların sahip oldukları yeteneklere sahip olduğunu görebiliriz.
+
+Bu sayede penguen(penguin) sınıfı gereksiz davranış ve özellikleri almamıştır.

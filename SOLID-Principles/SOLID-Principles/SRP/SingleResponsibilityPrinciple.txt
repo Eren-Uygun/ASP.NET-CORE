@@ -1,0 +1,6 @@
+﻿Single responsibility prensibine göre bir metodun veya sınıfın tek görevi olmalıdır. 
+
+Buradaki örnekde yani kötü(bad) kod olan kısımda loglama ve ekleme işlemleri aynı class içinde yapılmıştır.Ancak single responsibility prensibine göre classların tek görevi olmalıdır.
+
+İyi(good) kod olan kısımda ise loglama ve ekleme işlemleri birbirinden ayrılmış single responsibility prensibine uydurulmuştur.
+
