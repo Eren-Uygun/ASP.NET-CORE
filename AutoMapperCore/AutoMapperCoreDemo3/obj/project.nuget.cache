@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zFZrMfcaxb+nv7YwiP+RknqT9suYEfPfIpkHGEJscDJFceFCsX4Y4o0IQHsbwUmKEKRJxlfo+vye/o/48bxvlQ==",
+  "dgSpecHash": "0CSfWuth7Fb/oAQX7wOZck/i10dh8/keEVy+qz2WG2XStMTRYzQ3xRAukk35Jw6TbXzMs+ufwtPHfFpB9PTT0Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\LornV\\Documents\\GitHub\\ASP.NET-CORE\\AutoMapperCore\\AutoMapperCoreDemo3\\AutoMapperCoreDemo3.csproj",
   "expectedPackageFiles": [
@@ -158,8 +158,7 @@
     "C:\\Users\\LornV\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\LornV\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\LornV\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\LornV\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\LornV\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\LornV\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
